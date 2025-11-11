@@ -211,7 +211,7 @@ export default function ServicesSlider({ onBook = () => {} }) {
               </div>
               <CardContent className="p-3">
                 <h4 className="font-semibold text-sm">{service.title}</h4>
-                <p className="text-xs text-gray-600 mt-1">{service.price}</p>
+                {/* <p className="text-xs text-gray-600 mt-1">{service.price}</p> */}
               </CardContent>
             </Card>
           </MotionDiv>
