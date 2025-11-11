@@ -127,9 +127,9 @@ export default function ServicesSlider({ onBook = () => {} }) {
                     </CardHeader>
 
                     <CardContent className="p-0">
-                      <div className="mb-6">
+                      {/* <div className="mb-6">
                         <span className="text-2xl font-bold text-orange-600">{service.price}</span>
-                      </div>
+                      </div> */}
 
                       <div className="flex gap-3">
                         <Button
