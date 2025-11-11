@@ -237,9 +237,9 @@ export default function EmblaServicesSlider({ onBook = () => {} }) {
                         </div>
 
                         <div className="absolute bottom-4 right-4">
-                          <div className="bg-white/90 backdrop-blur-sm rounded-full px-3 py-1 text-sm font-bold text-[#2563eb]">
+                          {/* <div className="bg-white/90 backdrop-blur-sm rounded-full px-3 py-1 text-sm font-bold text-[#2563eb]">
                             {service.price}
-                          </div>
+                          </div> */}
                         </div>
 
                         {service.popular && (
