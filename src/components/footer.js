@@ -120,10 +120,10 @@ export default function Footer() {
                   <Mail className="w-5 h-5 text-[#2563eb]" />
                   <span className="text-[#e2e8f0]/90">contact@bricollano.com</span>
                 </div>
-                <div className="flex items-center space-x-3 p-3 bg-[#e2e8f0]/10 rounded-2xl hover:bg-[#e2e8f0]/20 transition-colors cursor-pointer">
+                {/* <div className="flex items-center space-x-3 p-3 bg-[#e2e8f0]/10 rounded-2xl hover:bg-[#e2e8f0]/20 transition-colors cursor-pointer">
                   <Phone className="w-5 h-5 text-[#2563eb]" />
                   <span className="text-[#e2e8f0]/90">+39 331 290 4233</span>
-                </div>
+                </div> */}
               </div>
             </MotionDiv>
           </MotionDiv>
